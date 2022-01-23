@@ -5,3 +5,13 @@ const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYe
 const progressBarOfThisYear = generateProgressBar()
 
 let monthNames = ["Jan","Feb","Mar","Apr", "May","Jun","Jul","Aug", "Sep", "Oct","Nov","Dec"];
+
+function generateProgressBar() {
+    const progressBarCapacity = 30
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBar = Array(progressBarCapacity)
+        .fill('▁')
+        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
+        .join('')
+    return `{ ${progressBar} }`
+}
