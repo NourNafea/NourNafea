@@ -47,7 +47,7 @@
 
 <p align="center">
   <p align = 'center'>Visitor's count 👀</p>
-  <b>![Visitor Count](https://profile-counter.glitch.me/{NourNafea}/count.svg)</b><br>
+  ![Visitor Count](https://profile-counter.glitch.me/{NourNafea}/count.svg)<br>
   <img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" alt"Grid">
 </p>
 
