@@ -29,9 +29,7 @@
 ![Nour's github stats](https://github-readme-stats.vercel.app/api?username=NourNafea&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NourNafea&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NourNafea&theme=dark)](https://git.io/streak-stats)
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
 ---
 
@@ -46,8 +44,8 @@
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-<p>Visitor's count 👀</p>
+<p align = 'center'>Visitor's count 👀</p>
+<p align = 'center'> ![Visitor Count](https://profile-counter.glitch.me/{NourNafea}/count.svg)</p>
 
-![Visitor Count](https://profile-counter.glitch.me/{NourNafea}/count.svg)
 
 <img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" alt"Grid" />
