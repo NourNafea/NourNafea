@@ -21,7 +21,7 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://icon.vimalverma.in/img/?tool=c-sharp-logo&acol=gold"/>
+      <img src="https://logo.letskhabar.com/img/?tool=c-sharp-logo&bgc=gold&acol=red" alt="c-sharp-logo">
 </p>
 
 ---
