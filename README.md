@@ -19,8 +19,8 @@
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://icon.vimalverma.in/img/?tool=amazon-web-services&acol=gold" alt="amazon_aws" width="55" height="55"/>
       <img src="https://icon.vimalverma.in/img/?tool=github&acol=gold" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://icon.vimalverma.in/img/?tool=firebase&acol=gold" alt="Firebase" width="55" height="55"/> 
+      <img src="https://icon.vimalverma.in/img/?tool=docker&acol=gold" alt="Docker" width="55" height="55"/>
       <img width="55px", height="55px" src="https://icon.vimalverma.in/img/?tool=c-sharp-logo&bgc=gold&acol=gold" alt="c-sharp-logo">
       
 </p>
