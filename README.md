@@ -15,8 +15,7 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+     
       <img src="https://icon.vimalverma.in/img/?tool=amazon-web-services&acol=gold" alt="amazon_aws" width="55" height="55"/>
       <img src="https://icon.vimalverma.in/img/?tool=github&acol=gold" alt="GIT" width="55" height="55"/> 
       <img src="https://icon.vimalverma.in/img/?tool=firebase&acol=gold" alt="Firebase" width="55" height="55"/> 
