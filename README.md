@@ -12,7 +12,6 @@
 - 💻 I use daily **.js**, **.cs**, **.sql**, **.py**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
       <img src="https://icon.vimalverma.in/img/?tool=amazon-web-services&acol=gold" alt="amazon_aws" width="55" height="55"/>
